@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/mondrian-generator/static/css/main.c8b6ef5e.chunk.css",
+    "main.js": "/mondrian-generator/static/js/main.ca051284.chunk.js",
+    "main.js.map": "/mondrian-generator/static/js/main.ca051284.chunk.js.map",
+    "runtime-main.js": "/mondrian-generator/static/js/runtime-main.7d7dbf21.js",
+    "runtime-main.js.map": "/mondrian-generator/static/js/runtime-main.7d7dbf21.js.map",
+    "static/js/2.83a2d7cc.chunk.js": "/mondrian-generator/static/js/2.83a2d7cc.chunk.js",
+    "static/js/2.83a2d7cc.chunk.js.map": "/mondrian-generator/static/js/2.83a2d7cc.chunk.js.map",
+    "index.html": "/mondrian-generator/index.html",
+    "precache-manifest.6abb648bdef52bbee9e6633f3bb437e6.js": "/mondrian-generator/precache-manifest.6abb648bdef52bbee9e6633f3bb437e6.js",
+    "service-worker.js": "/mondrian-generator/service-worker.js",
+    "static/css/main.c8b6ef5e.chunk.css.map": "/mondrian-generator/static/css/main.c8b6ef5e.chunk.css.map",
+    "static/js/2.83a2d7cc.chunk.js.LICENSE.txt": "/mondrian-generator/static/js/2.83a2d7cc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7d7dbf21.js",
+    "static/js/2.83a2d7cc.chunk.js",
+    "static/css/main.c8b6ef5e.chunk.css",
+    "static/js/main.ca051284.chunk.js"
+  ]
+}

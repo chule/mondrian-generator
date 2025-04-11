@@ -46,7 +46,7 @@ function App() {
   return (
     <div className="App">
       <header>
-        <h1>Mondrian generator</h1>
+        <h1>Mondrian art generator</h1>
         <button onClick={() => generateData()}>Click to generate</button>
       </header>
 
